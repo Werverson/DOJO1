@@ -1,0 +1,11 @@
+Dado("que dentro do site da inmetrics") do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Quando("verifico a seção Quem Somos") do
+  pending # Write code here that turns the phrase above into concrete actions
+end
+
+Entao("Valido o texto Mais de {int} anos de experiencia") do |int|
+  pending # Write code here that turns the phrase above into concrete actions
+end
